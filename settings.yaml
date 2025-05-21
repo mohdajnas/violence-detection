@@ -1,5 +1,5 @@
 model-settings:
-  prediction-threshold: 0.30957
+  prediction-threshold: 0.26
   model-name: 'ViT-B/32'
   device: 'cpu'
 
