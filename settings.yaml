@@ -1,0 +1,27 @@
+model-settings:
+  prediction-threshold: 0.30957
+  model-name: 'ViT-B/32'
+  device: 'cpu'
+
+label-settings:
+  labels:
+    - 'a violent fight happening on a street'
+    - 'street fight'
+    - 'people attacking each other'
+    - 'physical violence in public'
+    - 'violence happening in an office'
+    - 'office fight'
+    - 'people fighting indoors'
+    - 'a fire burning in a building'
+    - 'fire on the street'
+    - 'a fire inside an office'
+    - 'flames and smoke'
+    - 'room filled with smoke'
+    - 'a car crash on the road'
+    - 'vehicles collided'
+    - 'road accident'
+    - 'people walking normally on a street'
+    - 'people talking peacefully'
+    - 'normal office environment'
+    - 'people walking normally in office'
+  default-label: 'Unknown'
