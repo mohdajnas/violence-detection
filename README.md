@@ -38,7 +38,7 @@ pip install git+https://github.com/openai/CLIP.git
 ## 📁 Project Structure
 
 ```
-violence_detector.py       # Main script
+vdframe.py       # Main script
 violence_frames/           # Saved images of detected violent/fire scenes
 ```
 
