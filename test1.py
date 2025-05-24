@@ -95,12 +95,7 @@ def main():
     model = ViolenceModel(SETTINGS)
 
     cap = cv2.VideoCapture(0)
-    # RTSP_URL = 'rtsp://vmnavas:Zoft@2025@192.168.5.102:554/stream1'
-
-    # os.environ['OPENCV_FFMPEG_CAPTURE_OPTIONS'] = 'rtsp_transport;udp'
-
-    # cap = cv2.VideoCapture(RTSP_URL,cv2.CAP_FFMPEG)
-    
+ 
     if not cap.isOpened():
         print("Error: Could not open webcam.")
         return
