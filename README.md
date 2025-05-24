@@ -115,7 +115,7 @@ Label: street fight (0.42)
 
 Here are some frames detected by the system and saved automatically:
 
-![Violence Frame 1](violence_frames/violence_fight_20250524_101530_123456.jpg)
+![office fight](office_fight_20250521_115621_599503.jpg)
 ![Fire Frame](violence_frames/fire_burning_in_building_20250524_101645_654321.jpg)
 
 
