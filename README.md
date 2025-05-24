@@ -1,5 +1,5 @@
 
-# 🔍 CLIP-Based Real-Time Violence & Incident Detection
+# CLIP-Based Real-Time Violence & Incident Detection
 
 This project uses OpenAI's CLIP model (`ViT-B/32`) for **real-time detection of violence, fires, and accidents** from webcam or RTSP video streams. It classifies incoming frames based on similarity to a set of textual prompts and saves frames with dangerous content.
 
