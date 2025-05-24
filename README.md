@@ -111,6 +111,13 @@ You can adjust settings at the top of the script:
 Label: street fight (0.42)
 [Saved] violence_frames/street_fight_20250515_101530_123456.jpg
 ```
+## 🔍 Violence Detection - Sample Outputs
+
+Here are some frames detected by the system and saved automatically:
+
+![Violence Frame 1](violence_frames/violence_fight_20250524_101530_123456.jpg)
+![Fire Frame](violence_frames/fire_burning_in_building_20250524_101645_654321.jpg)
+
 
 OpenCV window shows:
 
