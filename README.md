@@ -116,7 +116,7 @@ Label: street fight (0.42)
 Here are some frames detected by the system and saved automatically:
 
 ![office fight](office_fight_20250521_115621_599503.jpg)
-![Fire Frame](violence_frames/fire_burning_in_building_20250524_101645_654321.jpg)
+![office](office_fight_20250521_132258_159390.jpg)
 
 
 OpenCV window shows:
